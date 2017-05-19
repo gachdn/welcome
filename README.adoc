@@ -1,0 +1,13 @@
+= Hello World
+ga {docdate}
+:doctype: article
+:encoding: utf-8
+:lang: en
+:toc: left
+:numbered:
+
+Greetings to you.
+
+== Profile info
+
+image:https://avatars1.githubusercontent.com/u/28801851?v=3&s=400[croco]
